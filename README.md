@@ -1,1 +1,1 @@
- API, joka hakee tiedot SQL Serveriltä
+ API, joka hakee tiedot SQL Serveriltä. Codebootcamp-kurssin harjoitustyö
